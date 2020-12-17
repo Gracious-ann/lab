@@ -1,0 +1,11 @@
+#include <iostream>
+
+int main() {
+    int v=3*60*60;
+    int threeMinutesInSeconds=3*60;
+    int sixMinutesInSeconds=6*60;
+    float pi=3.141526; 
+
+    std::cout<<"v="<<v<<std::endl;
+    return 0;
+}
